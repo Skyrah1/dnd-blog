@@ -1,28 +1,26 @@
 ---
 layout: post_dnd
-title: A Guide To Barbarian In D&D 5e
-excerpt: Also known as "How To Play The Manliest Character At Your Table (Part 1)"
+title: A Guide To Barbarian In D&D 5e (Part 1)
+subtitle: Also known as "How To Play The Manliest Character At Your Table (Part 1)"
 author: Skyrah1
-permalink: a-guide-to-barbarian-in-d&d-5e
+permalink: a-guide-to-barbarian-in-d&d-5e-part-1
 ---
 
 # Introduction
 
-This article is meant to be an overview of the Barbarian class in D&D 5e, going over its class features and how one might play/roleplay them, as well as some personal opinions on the class.
+This article is meant to be an overview of the Barbarian class in D&D 5e, going over its class features and how one might play/roleplay them, as well as some personal opinions on the class, in hopes to give newer players some ideas on how they'd go about making a new character.
 
 *DISCLAIMER: I may use "you" and "your character" interchangeably throughout this article to refer to your Player Character. Please don't actually use an axe to smash up the table at your game, as your DM will be very sad.*
 
 ### What is The Barbarian?
 
-If you're reading this article, you may have seen jokes or memes about the Barbarian solving every problem with his fists and brute strength while being literally too angry to die. While this isn't the only way to play Barbarian, it's not too far off.
+You may have seen jokes or memes about the Barbarian solving every problem they come across with their fists and brute strength while being literally too angry to die. While this isn't the only way to roleplay a Barbarian, it's not too far off.
 
-Put simply, the Barbarian is a class that excels at two things: *hitting stuff* and *surviving getting hit by stuff*. As such, its primary stats are Strength and Constitution, though Dexterity-focused Barbarians are also a viable option.
+With the highest hit die in the game and the ability to wield martial weapons, the Barbarian is a class that excels at two things: *hitting stuff* and *surviving getting hit by stuff*. Its primary stats are Strength and Constitution, though Dexterity-focused Barbarians are also a viable option. Barbarian characters tend to have little to no affinity with magic, but who needs spells when you have a maul?
 
 Your role in combat will revolve around identifying the biggest threat to your party and using your greataxe to remove it from existence, with about the same amount of precision as an M32 rotary grenade launcher (everything near them is also probably going to die). At the same time, you'll be given many tools at your disposal to ensure that your enemies can't do the same to you, with the first of them being your undying rage and the second being the rock-solid abs *on your rock-solid abs*.
 
-This kind of playstyle may sound boring and repetitive at first, but it definitely has its appeal, especially if you enjoy the power fantasy of ripping and tearing your way through every obstacle in your path (and honestly, who can blame you?).
-
-Do note that *the Barbarian doesn't NEED to be just a dumb brute*. While the name of the class and its features imply a simple-minded approach to problem solving, your character is in no way limited to just that, especially if you can roleplay your character well. That being said, if that's how you *want* to roleplay your character, then by all means feel free to do so.
+This kind of playstyle may sound boring and repetitive at first, but it definitely has its appeal, especially if you enjoy the power fantasy of smashing your way through every obstacle in your path, sentient or otherwise (and honestly, who can blame you?). Do note that *the Barbarian doesn't NEED to be just a dumb brute*. While the name of the class and its features imply a simple-minded approach to problem solving, your character is in no way limited to just that, especially if you can roleplay your character well. That being said, if that's how you *want* to roleplay your character, then by all means feel free to do so.
 
 ### Would I enjoy playing as one?
 
@@ -30,7 +28,7 @@ The Barbarian may tickle your fancy if:
 
 - You like dealing massive amounts of damage to a single target
 - You want to protect your teammates by drawing the attention of your enemies, while also being durable enough to survive yourself
-- You like the idea of playing a character similar in concept to The Doomslayer/Hulk/literally almost any anime protagonist with a transformation power-up
+- You want to play a character similar in concept to The Doomslayer/Hulk/literally almost any anime protagonist with a transformation power-up
 
 You might want to consider playing something else if:
 
@@ -45,7 +43,7 @@ This is the Barbarian's core defining class feature. Expending a use of Rage mak
 
 At level 1, you start off with 2 uses of Rage that can be replenished on a long rest. This number increases as you level up. Rage ends after a minute (10 rounds of combat), but it can be ended early as a bonus action, and it will also end early if you go one round without either trying to hit things or taking damage yourself.
 
-Probably the biggest tactical decision you'll make in combat (yes, there is tactics in playing Barbarian) will be whether to use Rage in combat or hold onto it for a more dangerous encounter.
+Probably the biggest tactical decision you'll make in combat (yes, there is still some tactics involved in playing a Barbarian) will be whether to use Rage in combat or hold onto it for a more dangerous encounter.
 
 Note that you won't be able to cast spells during rage, so multiclassing into spellcasting classes tends to be a sub-optimal choice (but feel free to do it anyway if it suits your character). Also note that you won't be able to benefit from Rage if you're wearing heavy armor. Thankfully, your character won't need armor *at all*, thanks to...
 
@@ -69,7 +67,7 @@ Contrary to everything covered thus far, this feature grants you the option to m
 
 There are a couple of reasons you may want to use this, the first and most obvious being that **you want something dead, and you want it dead now**. There may be an enemy that's giving you and/or your party so much trouble that it makes it worth inviting the wrath of every single other enemy in range, just so you can make sure you cave their skull in.
 
-Another reason is that drawing your enemies' attention *is* the desired result, i.e. **you want them to attack you instead of your squishy teammates**. There's very little in terms of actual taunt mechanics in D&D, so players looking to fulfill the tank role need to find other ways to protect their allies, especially when playing against intelligent opponents. Reckless Attack works as a form of "soft-taunt", as it simply makes it easier to hit you, enticing them to attack rather than outright forcing enemies to do so.
+Another reason is that drawing your enemies' attention *is* the desired result, i.e. **you want them to attack you instead of your squishy teammates**. There's very little in terms of actual taunt mechanics in D&D, so players looking to fulfill a "tank" role need to find other ways to protect their allies, especially when playing against intelligent opponents. Reckless Attack works as a form of "soft-taunt", as it simply makes it easier to hit you, enticing them to attack rather than outright forcing enemies to do so.
 
 > *NOTE: Don't let your abilities on paper limit what you can do as a tank to protect your teammates. While Recklessly Attacking on its own might help a little in this regard, it can be made more effective, and more satisfying, by supplementing this approach with roleplaying. For example, screaming various insults and profanities at your target to get their attention.*
 
@@ -115,13 +113,13 @@ In other words, *your character becomes literally too angry to die*.
 
 At 15th level, you can keep Rage on indefinitely as long as you're conscious.
 
-At this point, you can take what I said earlier about the Barbarian's biggest tactical decision in combat and chuck it out of the window. Apart from if you're multiclassing into a spellcaster, there is literally no reason why you wouldn't want to be seething with fury every waking moment of your character's existence, contrary to in real life. "Anger management" is no longer, and should no longer be, a phrase in the Barbarian's vocabulary.
+If your character has survived your campaign long enough to reach this point, you can take what I said earlier about the Barbarian's biggest tactical decision in combat and chuck it out of the window. Contrary to in real life, and multiclassing and potential RP consequences aside, there is literally no reason why you wouldn't want to be seething with fury every waking moment of your character's existence. "Anger management" is no longer, and should no longer be, a phrase in the Barbarian's vocabulary.
 
 ### Indomitable Might
 
 At 18th level, if you roll a Strength check and the result is less than your Strength score, you can use that score in place of your total.
 
-In other words, if you want to break the 6-inch-thick lead door down, *you're going to break the 6-inch-thick lead door down*.
+No longer will you need to feel threatened by the possibility of your oversized biceps failing you due to a natural 1. If you want to break the 6-inch-thick lead door down, *you're going to break the 6-inch-thick lead door down*.
 
 ### Primal Champion
 
@@ -131,10 +129,10 @@ The capstone for the Barbarian class at 20th level: a stat increase for Strength
 
 # Roleplaying and Flavor
 
-The most common stereotype that Barbarians have is that they're stupid, rage-fuelled berserkers with little to no regard for their own safety. They charge head-first into battle screaming about guts, and this battlecry is often followed by the subsequent ripping and tearing of said guts.
+The most common stereotype that Barbarians get labelled as is that they're stupid, rage-fuelled berserkers with little to no regard for their own safety. They charge head-first into battle screaming about guts, and this battlecry is often followed by the sounds of the subsequent ripping and tearing of said guts.
 
-References to DOOM aside, it's understandable why someone might take one look at the Barbarian's class features and immediately form that sort of image for a character in their head. Stereotypes themselves are not inherently bad, and characters that embody stereotypes in some ways can be fun in their own right to play and play with in-game.
+References to DOOM aside, it's understandable why someone might take one look at the Barbarian's class features and immediately form that sort of image for a character in their head. **Stereotypes themselves are not inherently bad, and characters that embody stereotypes in some ways can be fun to play and play with, so if everyone's having fun, don't feel pressured to "be unique" for the sake of "being unique"**.
 
-That being said, Rage doesn't *have* to be flavored as...well, rage. The class provides abilities for any unarmored character that fights with weapons and has some sort of transformation mechanic. Maybe you want to play a lone samurai, that channels their inner strength as a sort of combat focus. Maybe you want to play a Warforged/cyborg character, and their Rage is just their systems overclocking. Maybe you wanted to play a werewolf-like character, but the Druid doesn't appeal to you and [Matt Mercer's Bloodhunter](https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020) isn't allowed at your table. [Heck, maybe you want to play a magical girl with the whole transformation schtick, without using spells (credit to u/thebiggestwoop for this idea).](https://www.reddit.com/r/5eFlavors/comments/8dhre1/barbarian_as_an_anime_magical_girl/)
+That being said, Rage doesn't *have* to be flavored as...well, rage. The class provides abilities for any unarmored character that fights with weapons and has some sort of transformation mechanic. Maybe you want to play a lone samurai, that channels their inner strength as a sort of combat focus. Maybe you wanted to play a werewolf-like character, but the Druid doesn't appeal to you and [Matt Mercer's Bloodhunter](https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020) isn't allowed at your table. Maybe you want to play a Warforged/cyborg character, and their Rage is just their systems overclocking. [Heck, maybe you want to play a magical girl with the whole transformation schtick, without using spells (credit to u/thebiggestwoop for this idea).](https://www.reddit.com/r/5eFlavors/comments/8dhre1/barbarian_as_an_anime_magical_girl/)
 
-On top of all that, your character doesn't need to be limited to just your class. Even *if* they're a brute in combat, what do they do outside of that? Do they have family? Hobbies? Causes they're willing to fight (and die) for? An area of study they're interested in? My newest character is a Storm Herald Warforged Barbarian that sends himself into storms to observe them. A great DM of a different game introduced to us a Human Berserker NPC who's surprisingly intellectual and a big fan of the fantasy equivalent of The Art of War.
+As with all classes, your character doesn't need to be limited to just your class. Even *if* they're a brute in combat, what do they do outside of that? Why are they adventuring in the first place? Do they have family? Hobbies? Causes they're willing to fight (and die) for? An area of study they're interested in? My newest character is a Storm Herald Warforged Barbarian that sends himself into storms to observe them. A great DM of a different game introduced to us a Human Berserker NPC who's surprisingly intellectual and a big fan of the fantasy equivalent of The Art of War, who tried many professions before realising that adventuring was his only marketable skill.

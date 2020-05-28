@@ -1,14 +1,26 @@
 .current{
-    color: green;
+    color: #00dbff;
 }
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #414141;
 }
 
-h1{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blue;
+    color: #2f2f2f;
+}
+
+h3{
+    font-size: 19px;
 }
 
 p {
@@ -16,6 +28,10 @@ p {
 }
 
 article {
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+li {
+    font-size: 16px;
 }
