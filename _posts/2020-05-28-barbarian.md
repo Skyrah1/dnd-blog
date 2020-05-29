@@ -1,14 +1,14 @@
 ---
 layout: post_dnd
 title: A Guide To Barbarian In D&D 5e (Part 1)
-subtitle: Also known as "How To Play The Manliest Character At Your Table (Part 1)"
+subtitle: Also known as "How To Play The Manliest Character At Your Table"
 author: Skyrah1
 permalink: a-guide-to-barbarian-in-d&d-5e-part-1
 ---
 
 # Introduction
 
-This article is meant to be an overview of the Barbarian class in D&D 5e, going over its class features and how one might play/roleplay them, as well as some personal opinions on the class, in hopes to give newer players some ideas on how they'd go about making a new character.
+This article is meant to be an overview of the Barbarian class in D&D 5e, going over its core class features and how one might play/roleplay them, in hope of giving newer players some ideas on how they'd go about making a new character.
 
 *DISCLAIMER: I may use "you" and "your character" interchangeably throughout this article to refer to your Player Character. Please don't actually use an axe to smash up the table at your game, as your DM will be very sad.*
 
@@ -129,9 +129,13 @@ The capstone for the Barbarian class at 20th level: a stat increase for Strength
 
 # Roleplaying and Flavor
 
+### Vanilla Rage
+
 The most common stereotype that Barbarians get labelled as is that they're stupid, rage-fuelled berserkers with little to no regard for their own safety. They charge head-first into battle screaming about guts, and this battlecry is often followed by the sounds of the subsequent ripping and tearing of said guts.
 
 References to DOOM aside, it's understandable why someone might take one look at the Barbarian's class features and immediately form that sort of image for a character in their head. **Stereotypes themselves are not inherently bad, and characters that embody stereotypes in some ways can be fun to play and play with, so if everyone's having fun, don't feel pressured to "be unique" for the sake of "being unique"**.
+
+### Alternatives to anger
 
 That being said, Rage doesn't *have* to be flavored as...well, rage. The class provides abilities for any unarmored character that fights with weapons and has some sort of transformation mechanic. Maybe you want to play a lone samurai, that channels their inner strength as a sort of combat focus. Maybe you wanted to play a werewolf-like character, but the Druid doesn't appeal to you and [Matt Mercer's Bloodhunter](https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020) isn't allowed at your table. Maybe you want to play a Warforged/cyborg character, and their Rage is just their systems overclocking. [Heck, maybe you want to play a magical girl with the whole transformation schtick, without using spells (credit to u/thebiggestwoop for this idea).](https://www.reddit.com/r/5eFlavors/comments/8dhre1/barbarian_as_an_anime_magical_girl/)
 
