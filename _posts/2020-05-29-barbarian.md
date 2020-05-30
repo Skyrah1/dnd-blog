@@ -1,7 +1,7 @@
 ---
 layout: post_dnd
 title: A Guide To Barbarian In D&D 5e (Part 1)
-subtitle: Also known as "How To Play The Manliest Character At Your Table"
+subtitle: Also known as "How To Play The Manliest Character At Your Table (even if you're a woman)."
 author: Skyrah1
 permalink: a-guide-to-barbarian-in-d&d-5e-part-1
 ---
