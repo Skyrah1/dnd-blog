@@ -73,7 +73,7 @@ Another reason is that drawing your enemies' attention *is* the desired result, 
 
 ### Primal Path
 
-At 3rd level, you get to choose a subclass that will change how your Rage works in various ways, ranging from getting even *angrier* and attacking more times per round, to channelling the spirits of animals through your character's body, to affecting the environment in a small area around you. I will go into more detail with each subclass in a separate article.
+At 3rd level, you get to choose a subclass that will change how your Rage works in various ways, ranging from getting even *angrier* and attacking more times per round, to channelling the spirits of animals through your character's body, to affecting the environment in a small area around you. [I go into more detail with each subclass in a separate article](a-guide-to-barbarian-in-d&d-5e-part-2).
 
 ### Extra Attack
 
