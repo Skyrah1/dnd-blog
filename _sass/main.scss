@@ -1,5 +1,11 @@
 .current{
-    color: #00dbff;
+    color: #00aaff;
+    cursor: not-allowed;
+}
+
+.current:hover{
+    color: #00aaff;
+    background-color: #eeeeee;
 }
 
 body{
@@ -38,4 +44,43 @@ li {
 
 a {
     text-decoration: none;
+}
+
+a:hover {
+    color: #0066ff;
+}
+
+button {
+    background-color: #eeeeee;
+    border-color: #000000;
+    border-radius: 8%;
+    color: #222222;
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: #0066ff;
+}
+
+.post_list{
+    background-color: #eeeeee;
+    border-color: #000000;
+    border-radius: 2%;
+    color: #222222;
+    font-size: 25px;
+    width: 60%;
+}
+
+.post_list:hover{
+    background-color: #ffffff;
+    color: #222222;
+}
+
+.post_list h1,h2,h3,h4,h5,h6{
+    text-align: left;
+}
+
+.post_list p{
+    text-align: left;
 }
