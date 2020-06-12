@@ -2,6 +2,7 @@
 layout: post_dnd
 title: "Multiclassing: Should You Do It?"
 subtitle: When you feel like your character is too special for just one class
+edited: 2020-06-12
 permalink: multiclassing-should-you-do-it
 ---
 

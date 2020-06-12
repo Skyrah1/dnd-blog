@@ -12,7 +12,9 @@
                 {{ post.subtitle }}
                 <br/><br/>
                 <small>
-                    {{ post.date | date_to_string }}
+                    Posted: {{ post.date | date_to_string }}
+                    <br/>
+                    Last edited: {{ post.edited | date_to_string }}
                 </small>
             </p>
         </button>
