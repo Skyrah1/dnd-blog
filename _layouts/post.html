@@ -5,9 +5,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p>{{ page.subtitle }}</p>
 <p>
-    Posted: {{ page.date | date_to_string }}
-    <br/>
-    Last edited: {{ page.edited | date_to_string }}
+    <small>
+        Posted: {{ page.date | date_to_string }}
+        <br/>
+        Last edited: {{ page.edited | date_to_string }}
+    </small>
 </p>
 
 <article>
