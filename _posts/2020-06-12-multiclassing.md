@@ -20,7 +20,7 @@ If any of these are true, then you may have considered **multiclassing** at some
 
 ### What is "multiclassing"?
 
-For those of you new to the concept, multiclassing is choosing to take a level in another class when you level up, instead the class you already have. To do this, you need to have at least a 13 in the primary stat of your class, as well as the class that you want to multiclass into. Some classes may have more than one stat that need to meet this requirement. In other words, your Wizard needs to be strong enough to learn how to fight, but not so dumb that they can't be anything *but* a Wizard.
+For those of you new to the concept, multiclassing is **choosing to take a level in another class when you level up, instead the class you already have**. To do this, you need to have at least a 13 in the primary stat of your class, as well as the class that you want to multiclass into. Some classes may have more than one stat that need to meet this requirement. In other words, your Wizard needs to be strong enough to learn how to fight, but not so dumb that they can't be anything *but* a Wizard.
 
 Depending on the class chosen, you may gain some of their proficiencies to use skills, weapons and armor. The proficiencies gained are detailed in the SRD. You will also gain access to the features of that class up to 1st level, as well as a subclass of your choice (if applicable at that level).
 
