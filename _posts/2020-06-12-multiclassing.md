@@ -2,7 +2,7 @@
 layout: post_dnd
 title: "Multiclassing: Should You Do It?"
 subtitle: When you feel like your character is too special for just one class
-edited: 2020-06-12
+edited: 2020-06-13
 permalink: multiclassing-should-you-do-it
 ---
 
@@ -71,6 +71,10 @@ But there are other possible single-class builds that you could go for. A straig
 If you don't know what you're doing with multiclassing, there is a fair chance your character won't perform as well as the rest of your party. Fortunately, 5e is forgiving in that sense, as you'd need to be *really* trying to build a character that can't do anything.
 
 It's common wisdom to avoid multiclassing until after your character reaches level 5, as that's when classes get either Extra Attack (doubling weapon damage per round) or 3rd level spells (greatly increasing power and versatility). The difference between a 4th level character and a 5th level character is quite high, and sacrificing that boost in power for the benefits of another class could potentially hurt your character more than it's worth.
+
+> *Edit: This is why it's important to know what level would be appropriate for multiclassing, in addition to how many levels you plan on taking in each class.*
+> 
+> *Besides that, some class abilities may not synergize with others. Take Barbarians and Warlocks for example. Barbarians can't cast spells while under the effects of Rage. This is a problem if you were planning on slinging spells during a fight, since Rage is probably the whole reason why you're a Barbarian in the first place. However, some other class abilities may synergize well with Rage that may make you consider multiclassing anyway, such as the Fiend Warlock's Dark One's Blessing Feature. It grants temporary hit points when you KO an enemy, which goes well with the weapon damage resistance from Rage.*
 
 Of course, this might not be an issue to you if you're sure about what you want and are willing to make that sacrifice, or if you don't care as much about how mechanically effective you are compared to the rest of your party, so long as you're having fun.
 
