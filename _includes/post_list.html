@@ -1,17 +1,21 @@
 <h2>
-    Blog posts
+    Latest blog posts
 </h2>
 
-<ul>
+<p>
     {% for post in site.posts %}
-        <button class="post_list" onclick="window.location.href='{{ post.url }}'">
-            <h5>
+        <button  class="post_list" onclick="window.location.href='{{ post.url }}'">
+            <h4>
                 {{ post.title }}
-            </h5>
+            </h4>
             <p>
                 {{ post.subtitle }}
-            </p>    
+                <br/><br/>
+                <small>
+                    {{ post.date | date_to_string }}
+                </small>
+            </p>
         </button>
         <br/>
     {% endfor %}
-</ul>
+</p>
